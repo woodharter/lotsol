@@ -1,0 +1,2 @@
+# lotsol
+LLM fun
