@@ -6,7 +6,7 @@ This is just a project of LLM experiments I've been working on. Simple things.
 
 ### Overview
 
-I finally published it when I mentioned the resume building I had been using to job hunt. This current job market (Fall/Winter 2024) has been absolutely terrible. Hundreds of applications all denied with souless emails, so I theorized that AI was reading the emails and doing the filtering so why not use AI to create a resume to be read by AI.That is the precised question posed to the AI 
+This is a notebook that generates and AI readable resume and a cover letter. I finally published it when I mentioned the resume building I had been using to job hunt to a friend. This current job market (Fall/Winter 2024) has been absolutely terrible. Hundreds of applications all denied with souless emails, so I theorized that AI was reading the emails and doing the filtering so why not use AI to create a resume to be read by AI.That is the precised question posed to the AI 
 
 > "_You are highly skilled at resume writing. Your job is to create the best resume for AI to understand and read._"
 
